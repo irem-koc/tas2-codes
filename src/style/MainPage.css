@@ -1,0 +1,16 @@
+.main-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    gap:10px
+}
+.main-container>button{
+    padding: 10px;
+    color: white;
+    background-color: rgb(255, 163, 127);
+    outline: none;
+    border:none;
+    font-size: 16px;
+    border-radius: 8px;
+}
